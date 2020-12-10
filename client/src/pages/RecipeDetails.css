@@ -1,0 +1,33 @@
+.recipe_details_wrapper{
+    margin-top: 70px !important;
+}
+.recipe_details_wrapper .recipe_header {
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    
+    .recipe_details_wrapper .recipe_header .recipe_image {
+    flex: 1;
+    width: 60%;
+    }
+    
+    .recipe_ingredients_wrap {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    padding-top: 0px;
+    }
+    .recipe_ingredients_wrap h2{
+        margin-top: 0px;
+    }
+    
+    .recipe_content .recipe_creator {
+    font-size: 16px;
+    color: gray;
+    }
+    
+    .recipe_cretor_name {
+    cursor: pointer;
+    }

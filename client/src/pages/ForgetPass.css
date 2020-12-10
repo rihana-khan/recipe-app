@@ -1,0 +1,24 @@
+ 
+    .Forget-head{
+        color:#3f51b5;
+        font-size: 32px;
+    }
+   .paper {
+      margin-top: 64px;
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .avatar{
+      margin: 1px;
+      background-Color:#3f51b5 !important ;
+    }
+    .form{
+      width:100%;
+      margin-top: 3px;
+    }
+    .submit {
+      margin: 15px 0px 2px 0px !important;
+    }
+  
+  

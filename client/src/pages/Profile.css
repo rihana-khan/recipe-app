@@ -1,0 +1,33 @@
+.user_page_wrap .recipe_item_list {
+		cursor: pointer;
+}
+
+.user_page_wrap	.user {
+		display: flex;
+		flex-wrap: wrap;
+}
+.user_page_wrap .user	.user_thumbnail {
+			flex: 1;
+}
+.user_page_wrap .user	.user_thumbnail	img {
+	width: 60%;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.user_details {
+	flex: 5;
+}
+.user_recipes_tab_header {
+	padding: 0;
+}
+
+.recipes {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.recipes .MuiPaper-root {
+	margin-right: 30px;
+	margin-left: 30px;
+}
